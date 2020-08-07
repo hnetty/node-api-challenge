@@ -40,13 +40,23 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 -   [ ] Mention two parts of Express that you learned about this week.
 
+This week I learned about Routers which help us break up our application in such a way that we can boost the functionality of the program. In addition, I learned about Helpers which add extra functionality to the application as well.
+
 -   [ ] Describe Middleware?
+
+Middleware can be three different things. It can be built in, custom, or from another source/third party. It allows us to perform certain/specific tasks.
 
 -   [ ] Describe a Resource?
 
+A resource is something that is stored in our API, just about everything is a resource
+
 -   [ ] What can the API return to help clients know if a request was successful?
 
+It can return success messages/codes that confirm the desired actions
+
 -   [ ] How can we partition our application into sub-applications?
+
+By using hubs and routers
 
 ## Minimum Viable Product
 
